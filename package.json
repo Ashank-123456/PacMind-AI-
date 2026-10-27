@@ -1,0 +1,36 @@
+{
+  "name": "pacmind-astar",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PacMind AI: Autonomous Pac-Man agent powered by A* Search with Manhattan heuristics and dynamic ghost avoidance.",
+  "author": "Ashank Gupta",
+  "keywords": [
+    "PacMind AI",
+    "Pac-Man",
+    "Artificial Intelligence",
+    "A* Search",
+    "Manhattan Heuristic",
+    "Autonomous Agent",
+    "Ashank Gupta",
+    "Next.js",
+    "Tailwind CSS",
+    "Canvas Animation"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "16.4.3",
+    "react": "19.3.0",
+    "react-dom": "19.3.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/turbopack": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "16.4.3",
+    "tailwindcss": "^4"
+  }
+}
